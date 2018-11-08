@@ -1,0 +1,4 @@
+AddCharset ISO-8859-1 .html
+AddCharset ISO-8859-1 .php
+AddDefaultCharset ISO-8859-1
+php_value default_charset ISO-8859-1

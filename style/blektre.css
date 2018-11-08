@@ -1,0 +1,81 @@
+.panelstyle1 {color:#888888;}
+.panelstyle2 {color:#C0C0C0;}
+.panelstyle3 {color:#D0D0D0;}
+.style2 {color: #687A78}
+
+.Style1 {color: #687A78}
+.style1 {color: #687A78}
+
+.Style3 {color: #687A78}
+
+.time {color: #A9A6A6;}
+
+
+
+body,td,th {
+    font-family: Fixedsys, System, Arial;
+    font-size:16px;
+}
+
+
+
+
+
+table,tr,td{
+    text-align:left;
+}
+
+a{
+    color: #8F8E68;
+    text-decoration:none;
+}
+a:hover {
+    color: #FFBF00;
+    text-decoration:none;
+}
+
+
+#texte{
+    width:410px;
+    text-align: justify;
+    padding-left:20px;
+    padding-right:20px;
+    padding-top:30px;
+    padding-bottom:0px;
+}
+
+
+button{
+    border:0px;
+    border-style:none;
+    color:#222222;
+    background: #D7DBDF;
+    cursor:hand; 
+    width: 410px;
+    white-space:normal;
+
+}
+
+
+body{margin:0px;pardding:0px;}
+#global { 
+    margin:0px auto; 
+    width:1000px;
+    margin-top:60px;
+    height:500px;
+}
+
+#one { width:450px; float:left; clear:both }
+
+
+#two { width:550px; float:left; clear:both }
+#one {
+
+    height:600px;
+
+}
+
+#bonus{color:#9F0; display:inline-block;}
+#malus{color: #F00;  display:inline-block;}
+#bonuses{position: absolute;
+         top: 30px;}
