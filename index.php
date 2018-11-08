@@ -159,7 +159,7 @@ if ($_GET['foutre'] == 'non')
                 require('flashintro.php');
                 ?>
                 <a href="http://www.tarteflure.com/" ><img style="border:none;" src="http://www.tarteflure.com/style/logo.png" alt="tarteflure.com" width="100" height="100" /></a></div>
-            <p id="layoutdims"> Blektre v1.2</p>
+            <p id="layoutdims"> Blektre 08.11.2018</p>
         </div>
         <div class="colmask doublepage">
             <div class="colleft">
@@ -227,15 +227,17 @@ if ($_GET['foutre'] == 'non')
         <div id="footer">
 
             <p align="center">
-                           <a href="http://charlestorris.5tfu.org" title="charles torris">Charles Torris</a> @ <a href="https://twitter.com/FromageSoftware">FROMAGE INTERACTIF</a>
- 2008-<?= date('Y'); ?>
+                       <a href="mailto:erreure@gmail.com">     Charles Torris - 
+                           2008</a>
                 
-                <a href="mailto:erreur-ate-autiste.org"> contact</a> - <a href="0_blektre_au_theatre.php">Blektre au th&eacute;&acirc;tre </a></p>
+
+ <p align="center" class="panelstyle2">&deg; &deg; &deg; &deg; &deg; &deg; &deg; &deg; &deg;</p>
+ <p align="center"><a target="_blank" href="0_blektre_au_theatre.php">Blektre au th&eacute;&acirc;tre par Nathalie Quintane et Yves Noël Genod</a></p>
             <p align="center" class="panelstyle2">&deg; &deg; &deg; &deg; &deg; &deg; &deg; &deg; &deg;</p>
-            <p align="center"><a href="http://www.tarteflure.com/" ></a></p>
+            <p align="center">    <a target="_blank"  href="CPCblektre_800.jpg">La presse en parle</a></p>
             <br/>
-            <h2 style="text-align:center;">LA PRESSE EN PARLE</h2>
-           <img src="http://ardkor.info/uploaded/CPCblektre_800.jpg" />
+        
+           
         </div>
         
     </body>
